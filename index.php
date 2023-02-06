@@ -20,19 +20,23 @@
 </head>
 
 <body>
-    <div id="app">
+    <script src="./js/script.js"></script>
+    <div id="app" class="mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-
-
+                    <ul>
+                        <li v-for="todo in todoList">
+                            {{todo.language}}
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
 
 
-    <script src="./js/script.js"></script>
+
 </body>
 
 </html>

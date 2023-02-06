@@ -1,7 +1,26 @@
 [
-    "HTML",
-    "CSS",
-    "Responsive Design",
-    "JavaScript",
-    "PHP"
+    {
+        "language": "HTML",
+        "done": false
+    },
+    {
+        "language": "CSS",
+        "done": false
+    },
+    {
+        "language": "Responsive design",
+        "done": false
+    },
+    {
+        "language": "Javascript",
+        "done": false
+    },
+    {
+        "language": "PHP",
+        "done": false
+    },
+    {
+        "language": "Laravel",
+        "done": false
+    }
 ]
